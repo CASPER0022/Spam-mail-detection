@@ -1,0 +1,4 @@
+1. we are using logistic regression model (it will be usefull when doing the 1 out of 2 situations)
+
+STUDY MORE ABOUT lOGISTIC REGRESSION MODEL
+STUDY ABOUT FEATURE EXTRACTION. TFIDVECTORIZER
